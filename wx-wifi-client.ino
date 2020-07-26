@@ -19,7 +19,7 @@ static float s_localOffsetInHg = 0.50f;
 
 static const char*    ssid     = STASSID;
 static const char*    password = STAPSK;
-static const char*    host     = "10.0.1.122";
+static const char*    host     = "10.0.1.87"; // this is xserve.local (which has a fixed IP address)
 static const uint16_t port     = 5555;
 
 
